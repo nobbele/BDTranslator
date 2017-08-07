@@ -1,0 +1,2 @@
+# BDTranslator
+BetterDiscord Translator

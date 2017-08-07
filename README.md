@@ -2,7 +2,10 @@
 BetterDiscord Translator
 
 
-Open Translate.plugin.js in your favorite text editor and change the lines "LangFrom", "LangTo" and "node_modulepath" to your values
+Open plugins in settings then press "settings"
+1st line: Node_modules location
+2nd line: Language to translate from
+3rd line: Language to translate to
 
 
 Select a piece of text and press f2
